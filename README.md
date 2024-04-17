@@ -48,3 +48,56 @@ Before you begin, make sure you have the following installed:
 
    ```bash
    git clone <repository-url>
+
+   cd aora-video-app
+
+   npm install
+   npm start
+
+
+     iOS or Android device or simulator.
+   
+## Configuration
+
+Before running the app, you need to configure the following:
+
+- **Appwrite Endpoint**: Set the endpoint URL of your Appwrite server in the `config.js` file.
+- **Appwrite Project ID**: Replace the placeholder project ID in the `config.js` file with your actual Appwrite project ID.
+- **Appwrite Collection IDs**: Update the collection IDs in the `config.js` file with the appropriate IDs from your Appwrite project.
+
+## Usage
+
+Once the app is running, you can perform the following actions:
+
+- **Log In or Sign Up**: Use the provided login screen to log in with your credentials or sign up for a new account.
+- **Upload Videos**: Upload videos from your device's media library using the upload functionality.
+- **Discover Videos**: Explore trending and latest videos from the home screen.
+- **Search Videos**: Use the search functionality to find specific videos by title.
+- **Watch Videos**: Tap on a video to watch it in full-screen mode.
+
+## Demo Videos
+
+- [Demo Video 1](demo-video-1-link): This video demonstrates the login and signup process.
+- [Demo Video 2](demo-video-2-link): This video showcases the video upload functionality.
+- [Demo Video 3](demo-video-3-link): Watch how to discover and watch videos in the app.
+
+## Temporary Login Credentials
+
+To access the app for testing purposes, you can use the following temporary login credentials:
+
+- **Username**: tempuser@example.com
+- **Password**: tempPassword123
+
+Please note that these credentials are for testing purposes only and should not be used in a production environment.
+
+## Contributing
+
+We welcome contributions from the community! If you encounter any issues or have suggestions for improvement, please submit a pull request or open an issue on GitHub.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+   
