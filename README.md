@@ -2,7 +2,8 @@
 
 Welcome to Aora Video App, where creating, sharing, and discovering videos has never been easier!
 
-[Watch Demo Video](demo-video-link)
+[Watch Demo Video](https://github.com/aman9483/Aora-Post-Video-Post-Mobile-App/assets/118650697/a45eb19d-1433-4029-9664-e1cd91c27fce)
+
 
 ## Table of Contents
 
